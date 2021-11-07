@@ -1,0 +1,17 @@
+/* 
+  following the installion procedure on  
+  https://dev.to/whaleshark271/using-qemu-on-windows-10-home-edition-4062  
+  I was able to integrate it to the environment variables on Windows 10 without a problem ( NO Problems YET )
+  there might be some advantages to getting the QEMU GUI, but for fine tuning settings, terminal QEMU is probably best
+  
+  This is a one command but it contains a lot of information
+  qemu-system-aarch64 in the command to invocate
+  THERE IS A LOT OF OPTIONS
+  research the OPTIONS, it is used to inform the qemu about specifcs of the board, such as how many CPU core or base memory, or perpherials, etc. 
+  disk image is what I'm focusing on as this will be where I will try to modify to the operating system
+  
+  https://www.qemu.org/docs/master/system/invocation.html
+  Each option is detailed in that link read carefully
+*/
+>qemu-system-aarch64 [option] [disk image]
+  
