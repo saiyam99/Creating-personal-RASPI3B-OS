@@ -8,6 +8,7 @@ This repo will be my checkpoint and notepad for my progress
 
 First I need to create a suitable platform to test and develop my initial code  
 I will be using QEMU to emulation raspberry pi 3 on my Windows 10 computer  
+The requirement to creating an Ooperating System are gcc, make, assembler, linker( to create kernel ), and some other stuff prayers  
 I will be using text files to save powershell commands  
 I'm not to experienced in powershell commands
 Standards for the text files  
@@ -38,4 +39,6 @@ http://createyourownos.blogspot.com/
 
 https://www.youtube.com/watch?v=l2wZf45ZcAg
 
-https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf 
+https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf  
+
+https://balau82.wordpress.com/2010/02/28/hello-world-for-bare-metal-arm-using-qemu/
