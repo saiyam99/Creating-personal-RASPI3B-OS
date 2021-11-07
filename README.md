@@ -11,3 +11,7 @@ I will be using QEMU to emulation raspberry pi 3 on my Windows 10 computer
 -LINKS for QEMU-
 
 https://raspberrypi.stackexchange.com/questions/117234/how-to-emulate-raspberry-pi-in-qemu
+
+-LINKS for Building OS-
+
+https://www.youtube.com/watch?v=Sk9TatW9ino&t=551s
