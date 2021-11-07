@@ -3,18 +3,20 @@ This is my journal to mark my journey into creating my own operating system spec
 
 This repo will be my checkpoint and notepad for my progress
 
+
 #STAGE 1
 
-First I need to create a suitable platform to test and develop my initial code
-I will be using QEMU to emulation raspberry pi 3 on my Windows 10 computer 
+First I need to create a suitable platform to test and develop my initial code  
+I will be using QEMU to emulation raspberry pi 3 on my Windows 10 computer
+
+Raspberry Pi 3 model has Broadcom BCM2837B0, Cortex-A53 (ARMv8) 64-bit  
+
 
 -LINKS for QEMU-
 
-https://raspberrypi.stackexchange.com/questions/117234/how-to-emulate-raspberry-pi-in-qemu
-
-https://readthedocs.org/projects/qemu/downloads/pdf/latest/
-
--LINKS for Building OS-
+https://raspberrypi.stackexchange.com/questions/117234/how-to-emulate-raspberry-pi-in-qemu  
+https://readthedocs.org/projects/qemu/downloads/pdf/latest/  
+-LINKS for Building OS-  
 
 https://www.youtube.com/watch?v=Sk9TatW9ino&t=551s
 
