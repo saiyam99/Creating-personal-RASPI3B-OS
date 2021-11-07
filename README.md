@@ -7,7 +7,15 @@ This repo will be my checkpoint and notepad for my progress
 #STAGE 1
 
 First I need to create a suitable platform to test and develop my initial code  
-I will be using QEMU to emulation raspberry pi 3 on my Windows 10 computer
+I will be using QEMU to emulation raspberry pi 3 on my Windows 10 computer  
+I will be using text files to save powershell commands  
+I'm not to experienced in powershell commands
+Standards for the text files  
+'>' will start a command  
+'#' after this, i will note what the command does  
+'##' anything extra to keep in mind about this specific text  
+'###' 3 means personal details  
+'/* */' documents a series of commands before the commands  
 
 Raspberry Pi 3 model has Broadcom BCM2837B0, Cortex-A53 (ARMv8) 64-bit  
 
