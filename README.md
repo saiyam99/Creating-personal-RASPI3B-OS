@@ -25,6 +25,7 @@ Raspberry Pi 3 model has Broadcom BCM2837B0, Cortex-A53 (ARMv8) 64-bit
 
 https://raspberrypi.stackexchange.com/questions/117234/how-to-emulate-raspberry-pi-in-qemu  
 https://readthedocs.org/projects/qemu/downloads/pdf/latest/  
+https://www.qemu.org/docs/master/system/invocation.html  
 -LINKS for Building OS-  
 
 https://www.youtube.com/watch?v=Sk9TatW9ino&t=551s
