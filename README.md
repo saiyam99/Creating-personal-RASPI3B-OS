@@ -5,5 +5,6 @@ This is my journal to mark my journey into creating my own operating system spec
 
 First I need to create a suitable platform to test and develop my initial code
 I will be using QEMU to emulation raspberry pi 3 on my Windows 10 computer 
+
 -LINKS for QEMU-
 
