@@ -16,6 +16,7 @@ Standards for the text files
 '##' anything extra to keep in mind about this specific text  
 '###' 3 means personal details  
 '/* */' documents a series of commands before the commands  
+*Anything in in () is a side note(extra extra)
 
 Raspberry Pi 3 model has Broadcom BCM2837B0, Cortex-A53 (ARMv8) 64-bit  
 
