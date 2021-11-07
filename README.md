@@ -42,3 +42,5 @@ https://www.youtube.com/watch?v=l2wZf45ZcAg
 https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf  
 
 https://balau82.wordpress.com/2010/02/28/hello-world-for-bare-metal-arm-using-qemu/
+
+https://cs.lmu.edu/~ray/notes/nasmtutorial/
