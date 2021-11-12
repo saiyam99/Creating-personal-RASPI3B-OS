@@ -1,7 +1,7 @@
 /* 
   following the installion procedure on  
-  https://dev.to/whaleshark271/using-qemu-on-windows-10-home-edition-4062  
-  I was able to integrate it to the environment variables on Windows 10 without a problem ( NO Problems YET )
+  https://www.qemu.org/download for debian/Ubuntu
+  I was able to integrate it to the linux commands without a problem ( NO Problems YET )
   there might be some advantages to getting the QEMU GUI, but for fine tuning settings, terminal QEMU is probably best
   
   This is a one command but it contains a lot of information
