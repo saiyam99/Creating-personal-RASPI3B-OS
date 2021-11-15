@@ -1,0 +1,12 @@
+I'm testing the nasm hello world that I picked off the internet, tryinf to check if the compiler works on my system and can I set it to my settings.
+
+With the nasm, there exist the linker as well, getting both right is crucial 
+
+LINKS:
+https://forum.nasm.us/index.php?topic=2584.0
+
+https://askubuntu.com/questions/1064619/how-can-i-compile-run-assembly-in-ubuntu-18-04
+
+https://stackoverflow.com/questions/19200333/architecture-of-i386-input-file-is-incompatible-with-i386x86-64
+
+
