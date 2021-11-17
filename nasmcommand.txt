@@ -2,6 +2,7 @@ I'm testing the nasm hello world that I picked off the internet, tryinf to check
 
 With the nasm, there exist the linker as well, getting both right is crucial 
 
+> nasm -elfx32 hello_world.asm -o hello.elf
 LINKS:
 https://forum.nasm.us/index.php?topic=2584.0
 
