@@ -1,5 +1,4 @@
 
-
 test: test.cpp test.o
 	g++ -Wall -O3 -c test.cpp test.o
 	g++ test.o -o test
