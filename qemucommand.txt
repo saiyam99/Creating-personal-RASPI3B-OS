@@ -14,4 +14,7 @@
   Each option is detailed in that link read carefully
 */
 >qemu-system-aarch64 [option] [disk image]
-  
+
+>qemu-system-arm -machine type=raspi2 -m 1024 -kernel hello.elf
+
+>qemu-system-aarch64 -machine type=raspi2 -m 1024 -kernel hello.elf
