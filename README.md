@@ -3,11 +3,15 @@ This is my journal to mark my journey into creating my own operating system spec
 
 This repo will be my checkpoint and notepad for my progress
 
-#STAGE 1
+#STAGE 1 - get all requirements | research as much as possible  
+
 
 First I need to create a suitable platform to test and develop my initial code  
-I will be using QEMU to emulation raspberry pi 3 on a oracle VM VirtualBox, OS is Peppermint(64)
-The requirement to creating an Ooperating System are gcc, make, assembler, linker( to create kernel ), and some other stuff prayers  
+
+I will be using QEMU to emulation raspberry pi 3 on a oracle VM VirtualBox, OS is Peppermint(64)  
+
+The requirement to creating an Ooperating System are gcc, make, assembler, linker( to create kernel ), and some other stuff, and most importantly prayers  
+
 I will be using text files to save commands for anyone interested on how I able to make this work and understand, and myself mostly
 
 Standards for the text files  
