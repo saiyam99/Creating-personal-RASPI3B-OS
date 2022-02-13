@@ -1,4 +1,7 @@
+
 # Creating-personal-RASPI3B-OS-
+# Currently on Hold, I am relocating, so until further notice ( hopefully soon) I will not be working on advancing this OS
+# I will work on researching this subject topics
 This is my journal to mark my journey into creating my own operating system specifically aim at my raspberry pi
 
 This repo will be my checkpoint and notepad for my progress
