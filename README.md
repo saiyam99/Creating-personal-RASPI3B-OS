@@ -1,8 +1,9 @@
 
 # Creating-personal-OS
-# UPDATE: Reaaesrching this is more important, because I broke the kernel on which I was using QEMU on soo that is concerning 
+# UPDATE: researching this topic is more important, because I broke the kernel on which I was using QEMU on soo that is concerning 
 #I will work on researching this subject topics
 This is my journal to mark my journey into creating my own operating system specifically aim at my raspberry pi
+
 
 This repo will be my checkpoint and notepad for my progress
 
