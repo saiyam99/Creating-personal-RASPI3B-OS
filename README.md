@@ -1,21 +1,21 @@
 
-# Creating-personal-RASPI3B-OS-
-# Currently on Hold, I am relocating, so until further notice ( hopefully soon) I will not be working on advancing this OS
-# I will work on researching this subject topics
+# Creating-personal-OS
+# UPDATE: Reaaesrching this is more important, because I broke the kernel on which I was using QEMU on soo that is concerning 
+#I will work on researching this subject topics
 This is my journal to mark my journey into creating my own operating system specifically aim at my raspberry pi
 
 This repo will be my checkpoint and notepad for my progress
 
-#STAGE 1 - get all requirements | research as much as possible  
+## STAGE 1 - get all requirements | research as much as possible  
 
 
 First I need to create a suitable platform to test and develop my initial code  
 
-I will be using QEMU to emulation raspberry pi 3 on a oracle VM VirtualBox, OS is Peppermint(64)  
+I will be using QEMU to emulation raspberry pi 3 on a oracle VM VirtualBox, guest OS is FreeBSD 32 
 
 The requirement to creating an Ooperating System are gcc, make, assembler, linker( to create kernel ), and some other stuff, and most importantly prayers  
 
-I will be using text files to save commands for anyone interested on how I able to make this work and understand, and myself mostly
+I will be using text files to save commands for anyone interested on how I able to make this work and understand, and for myself mostly
 
 Standards for the text files  
 '>' will start a command  
@@ -25,7 +25,7 @@ Standards for the text files
 '/* */' documents a series of commands before the commands  
 *Anything in in () is a side note(extra extra)
 
-Raspberry Pi 3 model has Broadcom BCM2837B0, Cortex-A53 (ARMv8) 64-bit  
+The target is Raspberry Pi 3 model has Broadcom BCM2837B0, Cortex-A53 (ARMv8) 64-bit  
 
 
 -LINKS for QEMU-
