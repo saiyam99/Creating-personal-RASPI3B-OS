@@ -13,7 +13,7 @@ This repo will be my checkpoint and notepad for my progress
 
 First I need to create a suitable platform to test and develop my initial code  
 
-I will be using QEMU to emulation raspberry pi 3 on a oracle VM VirtualBox, guest OS is Debian 
+I will be using QEMU to emulation raspberry pi 3 on a oracle VM VirtualBox, guest OS is FreeBSD 32 
 
 The requirement to creating an Ooperating System are gcc, make, assembler, linker( to create kernel ), and some other stuff, and most importantly prayers  
 
